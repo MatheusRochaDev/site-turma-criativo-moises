@@ -20,6 +20,9 @@
     margin: 0 20px;
     font-size: 25px;
 }
+.cabacalho-lista-item :hover{
+    color: #4EBFE9;
+}
 .moises-img1{
     width: 20%;
     border-radius: 10%;
@@ -34,7 +37,6 @@
 }
 .moises-div-conteudo{
     width: 25%;
-    
 }
 .moises-sobre-titulo{
     padding: 25px 0;
@@ -48,4 +50,23 @@
 }
 .mandamentos-div{ 
     text-align: center;
+    margin: 50px 0;
+}
+.mandamentos-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.mandamentos-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    background-color: #ffffff;
+}
+.rodape{
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
 }
