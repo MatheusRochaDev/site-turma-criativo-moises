@@ -23,6 +23,9 @@
 .cabacalho-lista-item :hover{
     color: #4EBFE9;
 }
+.fundo{
+    background-color: gray;
+}
 .moises-img1{
     width: 20%;
     border-radius: 10%;
